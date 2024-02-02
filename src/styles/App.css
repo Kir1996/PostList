@@ -12,8 +12,8 @@
   @media  (max-width: 800px) {
     width: 100%;
   };
-  @media (min-width: 800px) {
-    width: 55%
+  @media (min-width: 400px) {
+    width: 100%
   }
 
 }
