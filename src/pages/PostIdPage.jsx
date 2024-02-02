@@ -63,7 +63,7 @@ if (errorCom) {
 }
 
   return(
-    <div>
+    <div className="headerAbout">
             <div className="pageHeader">
             <h1>Описание</h1>
             <MyButton type="button" onClick={handleClick}> 
