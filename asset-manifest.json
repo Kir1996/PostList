@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PostList/static/css/main.737a3521.css",
+    "main.js": "/PostList/static/js/main.ebac6445.js",
+    "index.html": "/PostList/index.html",
+    "main.737a3521.css.map": "/PostList/static/css/main.737a3521.css.map",
+    "main.ebac6445.js.map": "/PostList/static/js/main.ebac6445.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.737a3521.css",
+    "static/js/main.ebac6445.js"
+  ]
+}
