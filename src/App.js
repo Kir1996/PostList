@@ -24,7 +24,7 @@ import PostIdPage from './pages/PostIdPage';
 function App() {
  return(
   <div className="App">
-    <BrowserRouter>
+    <BrowserRouter basename="/PostList">
   <Routes>
     <Route path="/" element={<About/>}/>
     <Route exact path="/posts" element={<Posts/>}/>
