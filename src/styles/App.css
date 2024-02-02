@@ -9,7 +9,12 @@
     align-items: center;
 }
 .App{
-    width: 800px;
+  @media  (max-width: 800px) {
+    width: 100%;
+  };
+  @media (min-width: 800px) {
+    width: 55%
+  }
 
 }
 .post{ 
